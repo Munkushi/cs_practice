@@ -1,2 +1,2 @@
-# c-_practice
+# cs_practice
 Пробую c#!
